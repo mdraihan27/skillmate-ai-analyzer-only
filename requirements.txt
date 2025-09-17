@@ -20,6 +20,9 @@ yt-dlp==2024.8.6
 # Web Scraping (backup)
 beautifulsoup4==4.12.2
 
+# Database
+pymongo==4.8.0
+
 # Standard Library Dependencies (included with Python)
 # json - built-in
 # os - built-in  
